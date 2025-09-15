@@ -4,9 +4,22 @@ A small automation bot that watches for black-screen transitions (room loading) 
 
 ## ⚠️ Disclaimers
 
-Run the bot as Administrator if the game ignores key presses. Keep the game window focused.
+- Run the bot as Administrator if the game ignores key presses. Keep the game window focused.
 
-In rare cases the character may die. In most tests the bot stops shortly after death or, at worst, keeps walking to the right without continuing the scripted sequence. When it happens stop the bot pressing Esc
+- It uses the tools so you need to have a lot of shell shards.
+
+- In rare cases the character may die. In most tests the bot stops shortly after death or, at worst, keeps walking to the right without continuing the scripted sequence. When it happens stop the bot pressing Esc
+
+## 🗡️ RECOMENDED TOOLS 
+
+- Curveclaw
+- Longpin
+
+I didn't test the other ones. So feel free with you want 
+
+## 🛠 RECOMENDED BUILDS
+
+https://imgur.com/a/pMYZYpe
 
 ## 🎯 Intended In-Game Setup (Important)
 
